@@ -1,0 +1,330 @@
+/*
+=============== 
+Variables
+===============
+*/
+
+:root {
+  /* dark shades of primary color*/
+  --clr-white: white;
+  --clr-blue: rgb(17, 229, 248);
+  --clr-red-1: rgb(242, 53, 53);
+  --clr-red-2: rgb(153, 20, 42);
+  --clr-grey: rgb(168, 167, 167);
+  --clr-dark-grey: rgb(96, 94, 94);
+  --clr-dark-green: rgba(43, 169, 150, 0.7);
+  --clr-dark-green2: rgb(83, 189, 198);
+  --clr-light-green: rgb(56, 171, 56);
+  --clr-black: rgb(35, 34, 34);
+}
+/*
+=============== 
+Global styles
+===============
+*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 70vw;
+  margin: 2rem auto;
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+/*
+======================
+QUESTIONS  STYLES / GENERAL PAGE
+======================
+*/
+/* HIDE INNER COVER AND GENERALQUESTION PAGE */
+
+main {
+  width: 80;
+  min-height: 100vh;
+  margin-inline: 4rem;
+  font-size: 1.3rem;
+}
+.answ,
+#hide-answ {
+  display: none;
+}
+
+#button-toggle {
+  display: flex;
+
+  gap: 1rem;
+}
+
+#previous-button,
+#next-button,
+#show-answ,
+#hide-answ,
+#afresh-button,
+#choose-button {
+  padding: 0.2rem 1.5rem;
+  line-height: 1rem;
+  background-color: var(--clr-grey);
+  color: var(--clr-white);
+  font-weight: bold;
+  font-size: 0.8rem;
+  border-radius: 0.4rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: uppercase;
+  border: none;
+}
+
+#random-move {
+  display: flex;
+  padding: 0.2rem 1rem;
+  padding-top: 1rem;
+  gap: 1rem;
+}
+
+#afresh-button,
+#choose-button {
+  padding-inline: 2rem;
+}
+
+.page-heading {
+  color: var(--clr-grey);
+}
+
+#show-answ {
+  background: var(--clr-dark-green2);
+}
+
+#hide-answ {
+  background-color: var(--clr-red-2);
+}
+
+/*
+======================
+COVER PAGE STYLES
+======================
+*/
+
+#back-page {
+  width: 60vw;
+  height: 80vh;
+  background: linear-gradient(rgba(17, 70, 62, 0.7), rgba(26, 17, 70, 0.4)),
+    url("./images/back-page-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: auto;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.book-title {
+  padding-top: 1.5rem;
+  padding-bottom: 4rem;
+  color: var(--clr-white);
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+}
+
+span {
+  font-size: 2rem;
+}
+.name {
+  align-items: center;
+  color: var(--clr-blue);
+  text-align: center;
+  padding-top: 4rem;
+  font-weight: 200;
+  font-style: italic;
+}
+
+#contact {
+  font-size: 0.8rem;
+}
+
+.continue-link {
+  text-transform: uppercase;
+  border: 2px solid transparent;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  padding: 0.9rem 1.6rem;
+  font-size: 1.25rem;
+  background: transparent;
+  color: var(--clr-red-1);
+  border-color: var(--clr-blue);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.continue-link:hover,
+#portfolio-link:hover,
+.fa-linkedin:hover,
+.fa-github:hover,
+.fa-square-facebook:hover {
+  background-color: var(--clr-blue);
+  border-color: var(--clr-red-1);
+}
+
+.fa-linkedin,
+.fa-github,
+.fa-square-facebook {
+  color: var(--clr-red-1);
+  padding: 1rem 0.5rem;
+  font-size: 2rem;
+}
+
+#portfolio-link {
+  color: var(--clr-red-1);
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+/*
+======================
+INNER COVER PAGE STYLES
+======================
+*/
+
+#inner-cover-main {
+  text-align: center;
+}
+
+#inner-cover-main > h2 {
+  color: var(--clr-dark-grey);
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+#inner-cover-main > h3 {
+  color: var(--clr-grey);
+  font-weight: 200;
+  font-style: italic;
+}
+
+#ict-link,
+#general-link {
+  color: var(--clr-red-1);
+  text-transform: uppercase;
+  font-weight: 900;
+  line-height: 1rem;
+  letter-spacing: 0.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#ict-link:hover,
+#general-link:hover {
+  background-color: var(--clr-blue);
+  color: var(--clr-white);
+  border: 2px solid var(--clr-red-1);
+}
+
+/*
+======================
+MOBILE SCREEN
+======================
+*/
+
+@media screen and (max-width: 768px) {
+  /*
+======================
+COVER PAGE STYLES
+======================
+*/
+
+  #back-page {
+    width: 95vw;
+    height: 100vh;
+    background-size: contain;
+    margin-top: -1rem;
+    text-align: center;
+    margin-inline: -2.7rem;
+  }
+
+  .book-title {
+    padding-top: 1.5rem;
+    padding-bottom: 4rem;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+  }
+
+  span {
+    font-size: 2rem;
+  }
+  .name {
+    align-items: center;
+    color: var(--clr-blue);
+    text-align: center;
+    padding-top: 4rem;
+    font-weight: 200;
+    font-style: italic;
+  }
+
+  #contact {
+    font-size: 0.8rem;
+  }
+
+  .continue-link {
+    text-transform: uppercase;
+    border: 2px solid transparent;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    padding: 0.9rem 1.6rem;
+    font-size: 1.25rem;
+    background: transparent;
+    color: var(--clr-red-1);
+    border-color: var(--clr-blue);
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  .continue-link:hover,
+  #portfolio-link:hover,
+  .fa-linkedin:hover,
+  .fa-github:hover,
+  .fa-square-facebook:hover {
+    background-color: var(--clr-blue);
+    border-color: var(--clr-red-1);
+  }
+
+  .fa-linkedin,
+  .fa-github,
+  .fa-square-facebook {
+    color: var(--clr-red-1);
+    padding: 1rem 0.5rem;
+    font-size: 2rem;
+  }
+
+  #portfolio-link {
+    color: var(--clr-red-1);
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  /* HIDE INNER COVER AND GENERALQUESTION PAGE */
+
+  main {
+    width: 80vw;
+    margin-inline: -1rem;
+    font-size: 1.5rem;
+  }
+
+  #button-toggle {
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-top: -2.5rem;
+  }
+
+  #previous-button,
+  #next-button,
+  #show-answ,
+  #hide-answ,
+  #afresh-button,
+  #choose-button {
+    padding: 1rem 1.5rem;
+    line-height: 1rem;
+    font-size: 1.2rem;
+  }
+}
