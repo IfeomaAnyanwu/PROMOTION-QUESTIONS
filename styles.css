@@ -328,3 +328,8 @@ COVER PAGE STYLES
     font-size: 1.2rem;
   }
 }
+
+#total-question {
+  color: var(--clr-grey);
+  font-size: 1rem;
+}

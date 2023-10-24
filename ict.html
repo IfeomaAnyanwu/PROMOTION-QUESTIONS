@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./styles.css" />
+    <title>Others</title>
+  </head>
+  <body>
+    
+<main>
+    <h4 class="page-heading">General Promotion Questions And Answers</h4> 
+    <p id="total-question"></p>
+    
+
+    <br>
+<!---Default Page Displays at Page Load------>    
+    <p id="displayQuestion">No Question</p>
+    <br>
+    <p id="displayAnswer">No Answer</p>
+    
+    <br>
+<!--- Buttons to display at page load--------->
+    <div id="button-toggle">
+        <br>
+
+        <button id="previous-button" onclick="hideAnswer(); prevAnswersToQuestions(); prevAskedQuestion()"> Previous </button>
+
+        <button id="show-answ" class="show-answ" onclick="showAnswer()">
+          Show answer
+        </button>
+
+          <button id="hide-answ"  class="hide-answ" onclick="hideAnswer()">
+            Hide answer
+          </button>
+
+          <button onclick="askedQuestions(); answersToQuestions();hideAnswer()" id="next-button"> Next </button>
+          <br>
+        </div>
+      </div>
+    <!--
+      <div id="random-move">
+          <button  id="afresh-button"> Start Afresh </button>
+          <button id="choose-button"> Choose a Question </button>
+      </div>  
+      -->
+<!-------End of Buttons------------------->  
+      </main>
+
+    
+
+<!--------------Scripts-------------------->
+  <script src="./ict.js"></script>
+  <script>
+  (window.load = askedQuestions()), answersToQuestions(), buttonAtLoad();
+</script>
+
+  </body>
+</html>
