@@ -64,7 +64,7 @@ questions.push({
 });
 
 questions.push({
-  question: " 4. List 5 examples internet browsers",
+  question: " 4. List 5 examples of internet browsers",
   answer: [
     "a. Google chrome",
     "b. Mozilla Firefox",
