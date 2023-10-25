@@ -78,7 +78,7 @@ questions.push({
 });
 
 questions.push({
-  question: " 5. List five  basic hardware components of a Personal Computer:",
+  question: " 5. List five basic hardware components of a Personal Computer:",
   answer: [
     "a. Cental Processing unit - CPU",
     "b. Monitor",
@@ -138,13 +138,15 @@ questions.push({
 });
 
 questions.push({
-  question: "9. List five (5) system software",
+  question: "9. List any five (5) application software",
   answer: [
-    "a. Pensioners",
-    "b. People that are 50 years of age or over as at the time they are being appointed",
-    "c. Expatriates who possess specialized skills or competencies that are not readily available",
-    "d. Spouses married to Nigerians",
-    "e. People who specifically request to be appointed on contract and it is deemed to be in the best of the service.",
+    "a. Microsoft Word",
+    "b. Spreadsheets",
+    "c. Media player",
+    "d. Browsers like Firefox or Google Chrome",
+    "e. Accounting applications",
+    "f. Photo editor",
+    "g. Mobile apps such as video games, Whatsapp, etc.",
   ],
 });
 
@@ -176,7 +178,7 @@ questions.push({
 
 questions.push({
   question:
-    "12.  What is the difference between Digitized file and Electronic file",
+    "12.  What is the difference between Digitized records and Electronic records",
 
   answer: [
     "Digital Records: They can be easily accessed, viewed, and shared, regardless of the device used. They are usually portable and flexible for use.",
@@ -207,8 +209,9 @@ questions.push({
   question: "14. What is digitization of office?.",
 
   answer: [
-    "Digitization is the act of converting physical documents or paperwork into digital documents. Scanning a paper invoice and uploading it as a PDF is an example of digitization",
-    "Digitization is the process of changing from analog to digital form",
+    "Digitization is the act of converting physical documents or paperwork into digital documents.",
+    "It is the process of converting information into a computer-readable format",
+    "Scanning a paper invoice and uploading it as a PDF is an example of digitization",
   ],
 });
 
@@ -578,4 +581,6 @@ function prevAnswersToQuestions() {
 
 // Display Total questions
 var total = questions.length;
-document.getElementById("total-question").innerHTML = ` ${total} Questions. Update continues....`;
+document.getElementById(
+  "total-question"
+).innerHTML = ` ${total} Questions. Update continues.... `;
