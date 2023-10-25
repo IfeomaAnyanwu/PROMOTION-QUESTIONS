@@ -90,6 +90,7 @@ questions.push({
     "h. Computer Casing",
     "i. Power supply",
     "j. Peripheral like Printer, Scanner, Speaker, etc",
+    "etc.",
   ],
 });
 
@@ -177,13 +178,11 @@ questions.push({
 });
 
 questions.push({
-  question:
-    "12.  What is the difference between Digitized records and Electronic records",
+  question: "12.  What is a computer",
 
   answer: [
-    "Digital Records: They can be easily accessed, viewed, and shared, regardless of the device used. They are usually portable and flexible for use.",
-
-    "Electronic Records: These often require specific software or systems to access and utilize, and are less easily portable outside of those systems.",
+    "A computer is a machine or electronic device that has the ability to accept data (input), process, store, and output data.",
+    "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically",
   ],
 });
 
