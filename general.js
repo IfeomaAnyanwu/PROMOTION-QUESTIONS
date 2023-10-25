@@ -1279,4 +1279,4 @@ function prevAnswersToQuestions() {
 
 // Display Total questions
 var total = questions.length;
-document.getElementById("total-question").innerHTML = ` ${total} Questions. `;
+document.getElementById("total-question").innerHTML = ` ${total} Questions. Update continues.... `;
