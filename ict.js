@@ -26,7 +26,7 @@ const questions2 = [
 const questions = [
   {
     question:
-      "1. List five ways through which your institution communicates with its clients/customers and the general public, electronically",
+      "1. List five ways through which your organization communicates with its clients/customers and the general public, electronically",
     answer: [
       "a. email",
       "b. website",
