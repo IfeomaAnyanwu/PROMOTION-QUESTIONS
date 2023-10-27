@@ -302,7 +302,7 @@ questions.push({
     "Firmware is usually stored in read-only memory (ROM), which means it cannot be modified or deleted.",
     "some devices have firmware that can be updated. Firmware updates can be downloaded from the manufacturer's website or installed from a CD or other storage drive.",
 
-    "d. BIOS BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on",
+    "d. BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on",
     "It performs a power-on self-test (POST) and initializes the computer before loading the operating system.",
     "The BIOS is stored in a ROM (read-only memory) chip on the motherboard.",
 
@@ -483,8 +483,10 @@ questions.push({
   question: "39. What is a website ",
 
   answer: [
+    "A website is a collection of linked web pages.",
     "A Website is a set of related web pages and related content located under a single domain name",
     "It is typically produced by a single person or organization.",
+    "Any website depends on the three components: site files, domain name, and web host",
   ],
 });
 
@@ -495,6 +497,338 @@ questions.push({
     "A web server refers to the software that provides its users with the documents (web pages) they request via their web browsers.",
   ],
 });
+
+questions.push({
+  question: "41. What is a web page",
+
+  answer: [
+    "A web page is a document on the World Wide Web with its own address",
+  ],
+});
+
+questions.push({
+  question: "42. What is a domain name",
+
+  answer: [
+    "a domain name is a string that identifies a realm/sphere/region of administrative autonomy, authority or control",
+    "Domain names are often used to identify services provided through the Internet, such as websites, email services and more",
+  ],
+});
+
+questions.push({
+  question: "43. What is a router",
+
+  answer: [
+    "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of data packets.",
+  ],
+});
+
+questions.push({
+  question: "44. What is a Resource in computing",
+
+  answer: [
+    " A resouce is any physical, virtual (soft) or connected devices in a computer system. All connected devices and internal system components are resources.",
+    "Computer resource means all computer hardware, software, communications devices, facilities, equipment, networks, passwords, licensing and attendant policies, manuals and guides.",
+  ],
+});
+
+questions.push({
+  question: "45. What is a router",
+
+  answer: [
+    "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of data packets.",
+  ],
+});
+
+questions.push({
+  question: "46. Mention five domain name extension types  ",
+
+  answer: [
+    "a. .com – commercial business (the most common TLD)",
+    "b. .org – organizations (typically, nonprofit)",
+    "c. .gov – government agencies.",
+    "d. .edu – educational institutions.",
+    "e. .net – network organizations.",
+    "f. .mil – military.",
+    "etc",
+  ],
+});
+
+questions.push({
+  question: "47. What is a web Portal",
+
+  answer: [
+    "A web portal is a specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way.",
+  ],
+});
+
+questions.push({
+  question: "48. What is data",
+
+  answer: [
+    "Data are facts and values collected together for reference or analysis.",
+    " Data can also be defined s unprocessed information",
+  ],
+});
+
+questions.push({
+  question: "49. What is a database",
+
+  answer: [
+    "Database is an electronic file that contains a structured set of data held in a computer, especially one that is accessible in various ways.",
+  ],
+});
+
+questions.push({
+  question: "50. What is a Database Management System",
+
+  answer: [
+    "Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data.",
+    "A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database ",
+  ],
+});
+
+questions.push({
+  question: "51. Define the term Computer Network",
+
+  answer: [
+    "A computer network is a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data.",
+  ],
+});
+
+questions.push({
+  question: "52. What is IoT?",
+
+  answer: [
+    "The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.",
+  ],
+});
+
+questions.push({
+  question: "53. list 10 network devices ",
+
+  answer: [
+    "a. Hub",
+    "b. Repeater",
+    "c. Bridge ",
+    "d. Switch",
+    "e. Router",
+    "f. Gateways",
+    "g. Computer",
+    "h. Modem",
+    "i. Firewall",
+    "j. Wireless Access Point",
+    "k. Brouter",
+    "l. Tranceiver",
+    "m. Smartphone"
+    "etc",
+  ],
+});
+
+
+questions.push({
+  question: "54. Write the following in full ",
+
+  answer: [
+  "a. LAN- Local Area Network",
+  "b. WAN - Wide Area Network",
+  "c. MAN - Metroplitan Area Network",
+  "d. WLAN - Wireles Local Area Network",
+  "e. VPN - Virtual Private Network",
+  ]
+  });
+
+  questions.push({
+  question: "55. Who is a data subject",
+
+  answer: [
+    "Data subject refers to any individual person who can be identified, directly or indirectly, via an identifier such as a name, an ID number, location data, or via factors specific to the person's physical, physiological, genetic, mental, economic, cultural or social identity.",
+  ],
+});
+
+questions.push({
+  question: "56. Who is a data Processor",
+
+  answer: [
+    "A data processor is a natural person, agency, public authority, or any other body that holds or processes personal data on behalf of a controller or another data processor.",
+  ],
+});
+
+questions.push({
+  question: "57. Who is a data controller",
+
+  answer: [
+    "an individual, private entity, public commission, agency, or any other body who (alone or jointly with others) determines the purposes and means of processing of personal data.",
+  ],
+});
+
+questions.push({
+  question: "58. Define data capture",
+
+  answer: [
+  "Data capture is the process of extracting information from any type of document or object and converting it into a format readable by a computer.",
+  "Data capture refers to the method of automatically identifying objects, collecting data about them, and entering them directly into computer systems, without human involvement. Documents come in different formats such as invoices, receipts, questionnaires, videos and images.", 
+  ],
+});
+
+questions.push({
+  question: "59. Who is a data subject",
+
+  answer: [
+    "Data subject refers to any individual person who can be identified, directly or indirectly, via an identifier such as a name, an ID number, location data, or via factors specific to the person's physical, physiological, genetic, mental, economic, cultural or social identity.",
+  ],
+});
+
+questions.push({
+  question: "60. Define the term Digitalization",
+
+  answer: [
+    "In simple terms, digitalization is all about developing processes and changing workflows to improve manual systems using digital technologies.",
+  ],
+});
+
+questions.push({
+  question: "61. Define the term Digitalization",
+
+  answer: [
+    "In simple terms, digitalization is all about developing processes and changing workflows to improve manual systems using digital technologies.",
+  ],
+});
+
+questions.push({
+  question: "62. What is Digital transformation",
+
+  answer: [
+    "Digital transformation is the process of adoption and implementation of digital technology by an organization in order to create new or modify existing products, services and operations by the means of translating business processes into a digital format.",
+  ],
+});
+
+questions.push({
+  question: "63. What is Data Protection",
+
+  answer: [
+    "Data protection is a strategy set to secure privacy, availability, & integrity of data.",
+  ],
+});
+
+questions.push({
+  question: "64. What is Data intergrity",
+
+  answer: [
+ "Data integrity is the maintenance of, and the assurance of, data accuracy and consistency over its entire life-cycle.",
+"Data integrity is a critical aspect to the design, implementation, and usage of any system that stores, processes, or retrieves data",
+",
+  ],
+});
+
+
+questions.push({
+  question: "65. What is Web hosting",
+
+  answer: [
+ "A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create and maintain a site and makes it accessible on the World Wide Web.",
+  ],
+});
+
+questions.push({
+  question: "66. List equipment found in automated office ",
+
+  answer: [
+   "a. Document scanners",
+    "b. Photocopiers ",
+    "c. Label printers", 
+    "d. Telephone switchboards",
+    "e. Desktop and laptop computers",
+    "f. Tablets",
+    "g. Smartphones ",
+    "h. Biometric access scanners",
+    "i. Computer servers",
+    "etc",
+  ],
+});
+
+questions.push({
+  question: "67. What is automation of office",
+
+  answer: [
+ "Office automation refers to the use of varied computer machinery (hardware) and software to digitally create, collect, store, manipulate, and relay office information needed for accomplishing basic tasks",
+"Automating is about establishing and implementing automated workflows and processes",
+  ],
+});
+
+questions.push({
+  question: "68. List 10 benefits of office automation ",
+
+  answer: [
+
+   "a. Saves time Efficiency",
+"b.	Increased Productivity",
+"c.	Cost Savings",
+"d.	Improves Compliance",
+"e.	Reduced human Errors",
+"f.	Customer Satisfaction",
+"g.	Increasing Employee Satisfaction and Retention",
+"h.	Eliminate Paper-Based Processes",
+"i.	Standardization and Cleaner Data",
+"j.	Scalable Processes",
+"k.	Accuracy",
+"l.	Reducing manual intervention",
+"m.	Faster, easier and more consistent work",
+"n.	Help with data backup and recovery solutions",
+"o.	Provides security from any internal or external threats",
+"p.	Provides timely analysis and reporting",
+"etc",
+  ],
+});
+
+
+questions.push({
+  question: "69. List the office areas / sections that can be automated",
+
+  answer: [
+
+"a.	Finance and Budgeting",
+"b.	Recruitment",
+"c.	Cloud Infrastructure Automation",
+"d.	Security",
+"e.	Task/Project Management",
+"f.	Procurement",
+"g.	SaaS Management",
+"h.	Back-office Automation",
+"i.	Front desk Automation",
+"j.	Communication",
+"k.	Facilities",
+"l.	Analytics and Reporting",
+"m.	Remote Workforce",
+"n.	eSignature Solution",
+"etc",
+  ],
+});
+
+questions.push({
+  question: "70. Give example of software that can be used in office automation.",
+
+  answer: [
+"a.	Finance and Budgeting: Some budgeting, planning, and forecasting automation solutions are:  Float, FreshBooks, PlanGuru, Scoro, Xero",
+"b.	Recruitment: 5 office automation software to help you with recruitment and selection process are Beamery, HireHive, Indeed, Recruiterbox, Zoho Recruit",
+"c.	Cloud Infrastructure Automation: e.g Ansible, Appcore, AWS CloudFormation, Kubernetes, Puppet",
+"d.	Security: Inernal and External security can be Duo, Intruder, Kali Linux, SolarWinds Security Event Manager, Splunk are examples security software",
+"e.	Task/Project Management: how team is performing on their individual jobs can be monitored by the following tools-ClickUp, Flow,Com, Trello, Zapier",
+"f.	Procurement: examples of procurement software are Coupa, e-Procure, Precoro, Procurify, Tradogram",
+"g.	SaaS Management: e.g Torii, Blissfully, BetterCloud, Alpin, CloudExchange",
+"h.	Back-office Automation: Examples of Off-self software for storage and documents access to your teams include - Best Back-Office Automation includes:Another Monday, Automation Anywhere, Blue Prism, Linx, UiPath, backend of every betspoke/customized or tailor-made apps developed by your organization",
+"i.	Front desk Automation: help-desk and call-center management, Salesforce can be managed using the following software- Envoy, LobbyGuard, Sine, SwipedOn, Welkio",
+"j.	Communication: To create a digital workplace environment, you can use: 8×8, Slack, Uberconference, Workplace, Yarooms", 
+"k.	Facilities: Employ technology for general facility offerings and management for employees, inventory  etc. with the following software: Azzier, Corrigo CMMS, FMX, Hippo, Stockpile",
+"l.	Analytics and Reporting: e.g Zoho Analytics, Tableau, Answer rocket, SAP Crystal, Izenda Reports",
+"m.	Remote Workforce: - examples : BaseCamp, Google Drive, KissFlow, ProofHub, Zapier",
+"n.	eSignature Solution e.g Adobe Sign, DocuSign, HelloSign, Secured Signing, SignEasy etc",
+"etc",
+  ],
+});
+
+
+
 
 //=====================================================================================
 //END OF questions
