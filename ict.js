@@ -620,25 +620,24 @@ questions.push({
     "j. Wireless Access Point",
     "k. Brouter",
     "l. Tranceiver",
-    "m. Smartphone"
+    "m. Smartphone",
     "etc",
   ],
 });
-
 
 questions.push({
   question: "54. Write the following in full ",
 
   answer: [
-  "a. LAN- Local Area Network",
-  "b. WAN - Wide Area Network",
-  "c. MAN - Metroplitan Area Network",
-  "d. WLAN - Wireles Local Area Network",
-  "e. VPN - Virtual Private Network",
-  ]
-  });
+    "a. LAN- Local Area Network",
+    "b. WAN - Wide Area Network",
+    "c. MAN - Metroplitan Area Network",
+    "d. WLAN - Wireles Local Area Network",
+    "e. VPN - Virtual Private Network",
+  ],
+});
 
-  questions.push({
+questions.push({
   question: "55. Who is a data subject",
 
   answer: [
@@ -666,8 +665,8 @@ questions.push({
   question: "58. Define data capture",
 
   answer: [
-  "Data capture is the process of extracting information from any type of document or object and converting it into a format readable by a computer.",
-  "Data capture refers to the method of automatically identifying objects, collecting data about them, and entering them directly into computer systems, without human involvement. Documents come in different formats such as invoices, receipts, questionnaires, videos and images.", 
+    "Data capture is the process of extracting information from any type of document or object and converting it into a format readable by a computer.",
+    "Data capture refers to the method of automatically identifying objects, collecting data about them, and entering them directly into computer systems, without human involvement. Documents come in different formats such as invoices, receipts, questionnaires, videos and images.",
   ],
 });
 
@@ -715,18 +714,16 @@ questions.push({
   question: "64. What is Data intergrity",
 
   answer: [
- "Data integrity is the maintenance of, and the assurance of, data accuracy and consistency over its entire life-cycle.",
-"Data integrity is a critical aspect to the design, implementation, and usage of any system that stores, processes, or retrieves data",
-",
+    "Data integrity is the maintenance of, and the assurance of, data accuracy and consistency over its entire life-cycle.",
+    "Data integrity is a critical aspect to the design, implementation, and usage of any system that stores, processes, or retrieves data",
   ],
 });
-
 
 questions.push({
   question: "65. What is Web hosting",
 
   answer: [
- "A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create and maintain a site and makes it accessible on the World Wide Web.",
+    "A web hosting service is a type of Internet hosting service that hosts websites for clients, i.e. it offers the facilities required for them to create and maintain a site and makes it accessible on the World Wide Web.",
   ],
 });
 
@@ -734,9 +731,9 @@ questions.push({
   question: "66. List equipment found in automated office ",
 
   answer: [
-   "a. Document scanners",
+    "a. Document scanners",
     "b. Photocopiers ",
-    "c. Label printers", 
+    "c. Label printers",
     "d. Telephone switchboards",
     "e. Desktop and laptop computers",
     "f. Tablets",
@@ -751,8 +748,8 @@ questions.push({
   question: "67. What is automation of office",
 
   answer: [
- "Office automation refers to the use of varied computer machinery (hardware) and software to digitally create, collect, store, manipulate, and relay office information needed for accomplishing basic tasks",
-"Automating is about establishing and implementing automated workflows and processes",
+    "Office automation refers to the use of varied computer machinery (hardware) and software to digitally create, collect, store, manipulate, and relay office information needed for accomplishing basic tasks",
+    "Automating is about establishing and implementing automated workflows and processes",
   ],
 });
 
@@ -760,75 +757,70 @@ questions.push({
   question: "68. List 10 benefits of office automation ",
 
   answer: [
-
-   "a. Saves time Efficiency",
-"b.	Increased Productivity",
-"c.	Cost Savings",
-"d.	Improves Compliance",
-"e.	Reduced human Errors",
-"f.	Customer Satisfaction",
-"g.	Increasing Employee Satisfaction and Retention",
-"h.	Eliminate Paper-Based Processes",
-"i.	Standardization and Cleaner Data",
-"j.	Scalable Processes",
-"k.	Accuracy",
-"l.	Reducing manual intervention",
-"m.	Faster, easier and more consistent work",
-"n.	Help with data backup and recovery solutions",
-"o.	Provides security from any internal or external threats",
-"p.	Provides timely analysis and reporting",
-"etc",
+    "a. Saves time Efficiency",
+    "b.	Increased Productivity",
+    "c.	Cost Savings",
+    "d.	Improves Compliance",
+    "e.	Reduced human Errors",
+    "f.	Customer Satisfaction",
+    "g.	Increasing Employee Satisfaction and Retention",
+    "h.	Eliminate Paper-Based Processes",
+    "i.	Standardization and Cleaner Data",
+    "j.	Scalable Processes",
+    "k.	Accuracy",
+    "l.	Reducing manual intervention",
+    "m.	Faster, easier and more consistent work",
+    "n.	Help with data backup and recovery solutions",
+    "o.	Provides security from any internal or external threats",
+    "p.	Provides timely analysis and reporting",
+    "etc",
   ],
 });
-
 
 questions.push({
   question: "69. List the office areas / sections that can be automated",
 
   answer: [
-
-"a.	Finance and Budgeting",
-"b.	Recruitment",
-"c.	Cloud Infrastructure Automation",
-"d.	Security",
-"e.	Task/Project Management",
-"f.	Procurement",
-"g.	SaaS Management",
-"h.	Back-office Automation",
-"i.	Front desk Automation",
-"j.	Communication",
-"k.	Facilities",
-"l.	Analytics and Reporting",
-"m.	Remote Workforce",
-"n.	eSignature Solution",
-"etc",
+    "a.	Finance and Budgeting",
+    "b.	Recruitment",
+    "c.	Cloud Infrastructure Automation",
+    "d.	Security",
+    "e.	Task/Project Management",
+    "f.	Procurement",
+    "g.	SaaS Management",
+    "h.	Back-office Automation",
+    "i.	Front desk Automation",
+    "j.	Communication",
+    "k.	Facilities",
+    "l.	Analytics and Reporting",
+    "m.	Remote Workforce",
+    "n.	eSignature Solution",
+    "etc",
   ],
 });
 
 questions.push({
-  question: "70. Give example of software that can be used in office automation.",
+  question:
+    "70. Give example of software that can be used in office automation.",
 
   answer: [
-"a.	Finance and Budgeting: Some budgeting, planning, and forecasting automation solutions are:  Float, FreshBooks, PlanGuru, Scoro, Xero",
-"b.	Recruitment: 5 office automation software to help you with recruitment and selection process are Beamery, HireHive, Indeed, Recruiterbox, Zoho Recruit",
-"c.	Cloud Infrastructure Automation: e.g Ansible, Appcore, AWS CloudFormation, Kubernetes, Puppet",
-"d.	Security: Inernal and External security can be Duo, Intruder, Kali Linux, SolarWinds Security Event Manager, Splunk are examples security software",
-"e.	Task/Project Management: how team is performing on their individual jobs can be monitored by the following tools-ClickUp, Flow,Com, Trello, Zapier",
-"f.	Procurement: examples of procurement software are Coupa, e-Procure, Precoro, Procurify, Tradogram",
-"g.	SaaS Management: e.g Torii, Blissfully, BetterCloud, Alpin, CloudExchange",
-"h.	Back-office Automation: Examples of Off-self software for storage and documents access to your teams include - Best Back-Office Automation includes:Another Monday, Automation Anywhere, Blue Prism, Linx, UiPath, backend of every betspoke/customized or tailor-made apps developed by your organization",
-"i.	Front desk Automation: help-desk and call-center management, Salesforce can be managed using the following software- Envoy, LobbyGuard, Sine, SwipedOn, Welkio",
-"j.	Communication: To create a digital workplace environment, you can use: 8×8, Slack, Uberconference, Workplace, Yarooms", 
-"k.	Facilities: Employ technology for general facility offerings and management for employees, inventory  etc. with the following software: Azzier, Corrigo CMMS, FMX, Hippo, Stockpile",
-"l.	Analytics and Reporting: e.g Zoho Analytics, Tableau, Answer rocket, SAP Crystal, Izenda Reports",
-"m.	Remote Workforce: - examples : BaseCamp, Google Drive, KissFlow, ProofHub, Zapier",
-"n.	eSignature Solution e.g Adobe Sign, DocuSign, HelloSign, Secured Signing, SignEasy etc",
-"etc",
+    "a.	Finance and Budgeting: Some budgeting, planning, and forecasting automation solutions are:  Float, FreshBooks, PlanGuru, Scoro, Xero",
+    "b.	Recruitment: 5 office automation software to help you with recruitment and selection process are Beamery, HireHive, Indeed, Recruiterbox, Zoho Recruit",
+    "c.	Cloud Infrastructure Automation: e.g Ansible, Appcore, AWS CloudFormation, Kubernetes, Puppet",
+    "d.	Security: Inernal and External security can be Duo, Intruder, Kali Linux, SolarWinds Security Event Manager, Splunk are examples security software",
+    "e.	Task/Project Management: how team is performing on their individual jobs can be monitored by the following tools-ClickUp, Flow,Com, Trello, Zapier",
+    "f.	Procurement: examples of procurement software are Coupa, e-Procure, Precoro, Procurify, Tradogram",
+    "g.	SaaS Management: e.g Torii, Blissfully, BetterCloud, Alpin, CloudExchange",
+    "h.	Back-office Automation: Examples of Off-self software for storage and documents access to your teams include - Best Back-Office Automation includes:Another Monday, Automation Anywhere, Blue Prism, Linx, UiPath, backend of every betspoke/customized or tailor-made apps developed by your organization",
+    "i.	Front desk Automation: help-desk and call-center management, Salesforce can be managed using the following software- Envoy, LobbyGuard, Sine, SwipedOn, Welkio",
+    "j.	Communication: To create a digital workplace environment, you can use: 8×8, Slack, Uberconference, Workplace, Yarooms",
+    "k.	Facilities: Employ technology for general facility offerings and management for employees, inventory  etc. with the following software: Azzier, Corrigo CMMS, FMX, Hippo, Stockpile",
+    "l.	Analytics and Reporting: e.g Zoho Analytics, Tableau, Answer rocket, SAP Crystal, Izenda Reports",
+    "m.	Remote Workforce: - examples : BaseCamp, Google Drive, KissFlow, ProofHub, Zapier",
+    "n.	eSignature Solution e.g Adobe Sign, DocuSign, HelloSign, Secured Signing, SignEasy etc",
+    "etc",
   ],
 });
-
-
-
 
 //=====================================================================================
 //END OF questions
