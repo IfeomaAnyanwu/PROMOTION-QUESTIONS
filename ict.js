@@ -32,9 +32,9 @@ const questions = [
       "b. website",
       "c. web portal",
       "d. text messages",
-      "e. phone calls",
-      "f. social media platforms: Facebook, WhatsApp, Twitter,  etc",
-      "g. video",
+      "e. phone calls/VOIP call",
+      "f. social media platforms: Facebook, WhatsApp, Twitter, etc",
+      "g. video messages",
       "h. audio/voice messages",
     ],
   },
@@ -239,7 +239,7 @@ questions.push({
   answer: [
     "A peripheral device or peripheral is an auxiliary hardware device used to transfer information into and out of a computer.",
     "The term peripheral device refers to all hardware components that are attached to a computer and are controlled by the computer system, but they are not the core components of the computer.",
-    "56.	Peripherals are commonly divided into three kinds: input devices, output devices, and storage devices.",
+    "Peripherals are commonly divided into three kinds: input devices, output devices, and storage devices.",
   ],
 });
 
@@ -332,7 +332,7 @@ questions.push({
   question: "22. What is a computer hardware port",
 
   answer: [
-    "34.	A Computer hardware port is an interface or a point of connection between the computer and its peripheral devices. ",
+    "A Computer hardware port is an interface or a point of connection between the computer and its peripheral devices. ",
   ],
 });
 
@@ -344,11 +344,11 @@ questions.push({
     "b. RJ-45 - Registered Jack-45",
     "c. RJ-11 - Registered Jack -11",
     "d. HDMI - High Definition Media Interface",
-    "e. DVI- Digital Video Interface",
+    "e. DVI- Digital Visual/Video Interface",
     "f. VGA - Video Graphics Array",
     "i. Audio ports ",
     "j. PS/2 - Personal System 2",
-    "k. e-SATA - external Serial AT Attachment",
+    "k. e-SATA - External Serial Adanvce Attachment",
     "l. RCA - Radio Corporation of America",
   ],
 });
