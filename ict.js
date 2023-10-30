@@ -468,7 +468,7 @@ questions.push({
   question: "37. What is the full meaning of URL? ",
 
   answer: [
-    "a. URL: is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet.",
+    "URL is an acronym for Uniform Resource Locator and is a reference (an address) to a resource on the Internet.",
   ],
 });
 
@@ -476,7 +476,7 @@ questions.push({
   question: "38. What is a web browser   ",
 
   answer: [
-    " A Web browser is basically the software that we use for browsing on the internet and displaying pages.",
+    " A Web browser is basically the software that we use for browsing/surfing/searching  the internet and displaying pages.",
   ],
 });
 
@@ -484,8 +484,8 @@ questions.push({
   question: "39. What is a website ",
 
   answer: [
-    "A website is a collection of linked web pages.",
     "A Website is a set of related web pages and related content located under a single domain name",
+    "A website is a collection of linked web pages under the same domain name.",
     "It is typically produced by a single person or organization.",
     "Any website depends on the three components: site files, domain name, and web host",
   ],
