@@ -842,6 +842,24 @@ questions.push({
   ],
 });
 
+questions.push({
+  question: "73. What is Web Application",
+
+  answer: [
+    "A web application is application software that is accessed using a web browser",
+    "Web applications are delivered on the World Wide Web to users with an active network connection",
+  ],
+});
+
+questions.push({
+  question: "74. What is Mobile Application",
+
+  answer: [
+    "A mobile application or app is a computer program or software application designed to run on a mobile device such as a phone, tablet, or watch.",
+    "Mobile apps are downloadable by a user to a mobile device",
+  ],
+});
+
 //=====================================================================================
 //END OF questions
 //======================================================================================//
