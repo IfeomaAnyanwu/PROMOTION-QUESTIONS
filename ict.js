@@ -392,8 +392,8 @@ questions.push({
   question: "29. What is TCP/IP used for? ",
 
   answer: [
-    " TCP/IP is a suite of communication protocols used to interconnect network devices on the internet. ",
-    "allows computers on the same network to identify and communicate with each other.",
+    "TCP/IP is a suite of communication protocols used to interconnect network devices on the internet. ",
+    "TCP/IP allows computers on the same network to identify and communicate with each other.",
     "TCP/IP is also used as a communications protocol in a private computer network (an intranet or extranet).",
   ],
 });
@@ -410,6 +410,7 @@ questions.push({
   answer: [
     "a. User Datagram Protocol (UDP) is a connectionless communication protocol for transporting packets across networks.",
     "UDP does not require prior communication to set up communication channels or data paths.",
+    " It is specifically chosen for time-sensitive applications like gaming, playing videos, or Domain Name System (DNS) lookups.",
   ],
 });
 
@@ -819,6 +820,25 @@ questions.push({
     "m.	Remote Workforce: - examples : BaseCamp, Google Drive, KissFlow, ProofHub, Zapier",
     "n.	eSignature Solution e.g Adobe Sign, DocuSign, HelloSign, Secured Signing, SignEasy etc",
     "etc",
+  ],
+});
+
+questions.push({
+  question: "71. What is SMTP and its use",
+
+  answer: [
+    "The Simple Mail Transfer Protocol (SMTP) is used to deliver e-mail messages over the Internet",
+  ],
+});
+
+questions.push({
+  question: "72. What do you mean by TELNET Protocol",
+
+  answer: [
+    "Telnet short form for - Teletype Network is a client/server application protocol that provides access to virtual terminals of remote systems on local area networks or the Internet.",
+    "TELNET is commonly used by terminal emulation programs that allow you to log into a remote host.",
+    "TELNET can be used for terminal-to-terminal communication and interprocess communication.",
+    "TELNET is also used by other protocols (for example, FTP) for establishing a protocol control channel.",
   ],
 });
 
