@@ -520,7 +520,8 @@ questions.push({
   question: "43. What is a router",
 
   answer: [
-    "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of data packets.",
+    "A router is a networking device that forwards data packets between computer networks. ",
+    "Routers perform the traffic directing functions between networks and on the global Internet.",
   ],
 });
 
@@ -528,8 +529,9 @@ questions.push({
   question: "44. What is a Resource in computing",
 
   answer: [
-    " A resouce is any physical, virtual (soft) or connected devices in a computer system. All connected devices and internal system components are resources.",
     "Computer resource means all computer hardware, software, communications devices, facilities, equipment, networks, passwords, licensing and attendant policies, manuals and guides.",
+    " A resouce is any physical, virtual (soft) or connected devices in a computer system.",
+    "All connected devices and internal system components are resources.",
   ],
 });
 
