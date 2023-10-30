@@ -529,17 +529,18 @@ questions.push({
   question: "44. What is a Resource in computing",
 
   answer: [
-    "Computer resource means all computer hardware, software, communications devices, facilities, equipment, networks, passwords, licensing and attendant policies, manuals and guides.",
+    "Computer resource means all computer hardware, software, communications devices, facilities, equipment, networks, passwords, licensing and attendant policies, manuals and guides etc.",
     " A resouce is any physical, virtual (soft) or connected devices in a computer system.",
     "All connected devices and internal system components are resources.",
   ],
 });
 
 questions.push({
-  question: "45. What is a router",
+  question: "45. What is a Network Switch",
 
   answer: [
-    "A router is a networking device that forwards data packets between computer networks. Routers perform the traffic directing functions between networks and on the global Internet. Data sent through a network, such as a web page or email, is in the form of data packets.",
+    "A network switch connects devices in a network to each other, enabling them to talk by exchanging data packets.",
+    "Switches can be hardware devices that manage physical networks or software-based virtual devices.",
   ],
 });
 
@@ -570,7 +571,7 @@ questions.push({
 
   answer: [
     "Data are facts and values collected together for reference or analysis.",
-    " Data can also be defined s unprocessed information",
+    " Data can also be defined as unprocessed information",
   ],
 });
 
@@ -586,7 +587,7 @@ questions.push({
   question: "50. What is a Database Management System",
 
   answer: [
-    "Database Management Systems (DBMS) are software systems used to store, retrieve, and run queries on data.",
+    "Database Management Systems (DBMS) are software systems used to store, retrieve, modify and run queries on data.",
     "A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database ",
   ],
 });
