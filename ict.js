@@ -511,8 +511,8 @@ questions.push({
   question: "42. What is a domain name",
 
   answer: [
-    "a domain name is a string that identifies a realm/sphere/region of administrative autonomy, authority or control",
-    "Domain names are often used to identify services provided through the Internet, such as websites, email services and more",
+    "A domain name (often simply called a domain) is an easy-to-remember name that's associated with a physical IP address on the Internet. ",
+    "It's the unique name that appears after the @ sign in email addresses, and after www. in web addresses.",
   ],
 });
 
