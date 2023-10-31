@@ -587,7 +587,7 @@ questions.push({
   question: "50. What is a Database Management System",
 
   answer: [
-    "Database Management Systems (DBMS) are software systems used to store, retrieve, modify and run queries on data.",
+    "Database Management System (DBMS) is a software system used to store, retrieve, modify and run queries on data held in a databases",
     "A DBMS serves as an interface between an end-user and a database, allowing users to create, read, update, and delete data in the database ",
   ],
 });
@@ -630,7 +630,7 @@ questions.push({
 });
 
 questions.push({
-  question: "54. Write the following in full ",
+  question: "54. Write the following in full: LAN, WAN, MAN, WLAN, VPN",
 
   answer: [
     "a. LAN- Local Area Network",
@@ -661,7 +661,7 @@ questions.push({
   question: "57. Who is a data controller",
 
   answer: [
-    "an individual, private entity, public commission, agency, or any other body who (alone or jointly with others) determines the purposes and means of processing of personal data.",
+    " Data controller is an individual, private entity, public commission, agency, or any other body who (alone or jointly with others) determines the purposes and means of processing of personal data.",
   ],
 });
 
@@ -670,7 +670,7 @@ questions.push({
 
   answer: [
     "Data capture is the process of extracting information from any type of document or object and converting it into a format readable by a computer.",
-    "Data capture refers to the method of automatically identifying objects, collecting data about them, and entering them directly into computer systems, without human involvement. Documents come in different formats such as invoices, receipts, questionnaires, videos and images.",
+    "Data capture can also refers to the method of automatically identifying objects, collecting data about them, and entering them directly into computer systems, without human involvement. Documents come in different formats such as invoices, receipts, questionnaires, videos and images.",
   ],
 });
 
@@ -691,10 +691,11 @@ questions.push({
 });
 
 questions.push({
-  question: "61. Define the term Digitalization",
+  question: "61. Define the term Digitization",
 
   answer: [
-    "In simple terms, digitalization is all about developing processes and changing workflows to improve manual systems using digital technologies.",
+    "Digitization is the act of converting physical documents or paperwork into digital documents.",
+    "It is the process of converting information into a computer-readable format",
   ],
 });
 
@@ -719,7 +720,6 @@ questions.push({
 
   answer: [
     "Data integrity is the maintenance of, and the assurance of, data accuracy and consistency over its entire life-cycle.",
-    "Data integrity is a critical aspect to the design, implementation, and usage of any system that stores, processes, or retrieves data",
   ],
 });
 
