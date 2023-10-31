@@ -1194,10 +1194,14 @@ questions.push({
 });
 
 questions.push({
-  question: "90. List 4 features of Hand over note",
+  question: "90. What is the latest/current edition of the PRS and when ",
 
-  answer: [],
+  answer: ["2021 Edition, It took effect on 27th, July 2023."],
 });
+
+//=====================================================================================
+//END OF questions
+//======================================================================================//
 
 console.log(questions); // log array on console
 
