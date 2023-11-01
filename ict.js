@@ -74,6 +74,25 @@ questions.push({
     "f. Slim browser",
     "g. Maxthon",
     "h. K. Meleon",
+    "i. UC Browser",
+    "j. Netscape",
+    "k. OminWeb",
+    "l. NetFront",
+    "m. Camino",
+    "n. Midori",
+    "o. Rocat Browser",
+    "p. Rekong",
+    "q. Conqueror",
+    "r. Bold",
+    "s. Arora",
+    "t. uzbl",
+    "u. QtWeb",
+    "v. Mosaic",
+    "w. Shirra",
+    "x. Flock",
+    "y. iCab",
+    "z. Surf",
+    "etc",
   ],
 });
 
@@ -860,6 +879,23 @@ questions.push({
   answer: [
     "A mobile application is a computer program or software application designed to run on a mobile device such as a phone, tablet, or watch.",
     "Mobile apps are downloadable by a user to a mobile device and can be used without active internet connection",
+  ],
+});
+
+questions.push({
+  question: "75. list 5 External Storage devices ",
+
+  answer: [
+    "a. External Hard Drive",
+    "b. USB Flash Drive ",
+    "c. Compac Disk - CD/ Digital Video or Versatile Disk - DVD",
+    "d. Secure Digital Memory Card- SD-Card",
+    "e. Memory Card",
+    "f. Solid State drive",
+    "g. Magnetic Tape ",
+    "h. Floopy Disk",
+    "i. Blue ray disk",
+    "etc",
   ],
 });
 
