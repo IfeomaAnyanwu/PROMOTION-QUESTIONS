@@ -456,10 +456,10 @@ questions.push({
 });
 
 questions.push({
-  question: "36. What is study leave? Study",
+  question: "36. What is study leave?",
 
   answer: [
-    "Leave is the leave granted to a confirmed serving officer to undertake an approved course of study within or outside the country",
+    " Study leave is the leave granted to a confirmed serving officer to undertake an approved course of study within or outside the country",
   ],
 });
 
@@ -519,7 +519,9 @@ questions.push({
   question: "42. What is Leave of Absence?",
 
   answer: [
-    "Leave of absence is the absence of an officer from duty authorized on grounds of public policy. Leave of absence on grounds of public policy is approved by the Head of the Civil Service of the Federation on the recommendation of the Permanent Secretary/Head of Extra Ministerial Office. AN OFFICER ON LEAVE OF ABSENCE SHALL NOT ACCEPT ANY PAID APPOINTMENT WITHOUT PREVIOUSLY OBTAINING APPROVAL OF THE OFFICE OF ESTABLISHMENTS AND PENSION (PSR 030429)",
+    "Leave of absence is the absence of an officer from duty authorized on grounds of public policy.",
+    "Leave of absence on grounds of public policy is approved by the Head of the Civil Service of the Federation on the recommendation of the Permanent Secretary/Head of Extra Ministerial Office. ",
+    "AN OFFICER ON LEAVE OF ABSENCE SHALL NOT ACCEPT ANY PAID APPOINTMENT WITHOUT PREVIOUSLY OBTAINING APPROVAL OF THE OFFICE OF ESTABLISHMENTS AND PENSION (PSR 030429)",
   ],
 });
 
@@ -529,7 +531,7 @@ questions.push({
   answer: [
     "a. Leave of absence to join spouse on course of instruction of not less than 9 months duration abroad",
     "b. Special Leave of absence to join spouse on grounds of public policy",
-    "c. Leave of Absence for Technical Aid Corps",
+    "c. Leave of Absence for Technical Aid Corps Programme",
     "d. Leave of absence for Special/Personal Assistants",
     "e. Leave of absence for spouses of Presidents; Vice Presidents, Governors, Deputy Governors on grounds of public policy",
   ],
@@ -621,12 +623,10 @@ questions.push({
     "d. State of Origin/LGA",
     "e. Qualifications",
     "f. Date of 1st Appointment",
-    "g. Cadre",
-    "h. Rank",
-    "i. Grade Level",
-    "j. Date of Confirmation of Appointment",
-    "k. Date of Present Appointment",
-    "l. Location",
+    "j. Rank",
+    "h. Grade Level",
+    "i. Date of Present Appointment",
+    "j. Location",
   ],
 });
 
@@ -1197,6 +1197,81 @@ questions.push({
   question: "90. What is the latest/current edition of the PRS and when ",
 
   answer: ["2021 Edition, It took effect on 27th, July 2023."],
+});
+
+questions.push({
+  question: "91. List the continents of the world ",
+
+  answer: [
+    "Africa",
+    "Asia",
+    "Antarctica",
+    "Australia/Oceania",
+    "Europe",
+    "North America",
+    "South America",
+  ],
+});
+
+questions.push({
+  question: "92. Mention five items found in record of service",
+
+  answer: [
+    "1.Full name ",
+    "2.Date of Birth",
+    "3.State/LGA of Origin",
+    "4.Record of Career Progression",
+    "5.Record of leave",
+    "6.Record of Additional qualifications obtained ",
+    "7.Record of Commendations",
+    "8.Record of Sanctions",
+    "9. Record of 1st Appointment",
+  ],
+});
+
+questions.push({
+  question: "93. What is Minute? ",
+
+  answer: [
+    "A Minute may be defined as a communication in writing, usually in files between two or more officials",
+    "Minutes are normally used to consider and settle matters or to direct what action May be taken in a given. circumstance. ",
+    "Minuting is the act of writing a minute.",
+  ],
+});
+
+questions.push({
+  question: "94. What is Circular? ",
+
+  answer: [
+    "Circular is a document usually prepared by a higher authority and passover to those concern for compliance",
+    "Circular mostly has to do with government policies.",
+  ],
+});
+
+questions.push({
+  question: "95. What is Memorandum? ",
+
+  answer: [
+    "Memorandum is a policy proposal for tabling at a meeting ",
+    "It can also be a proposal for presenting to a higher authority",
+    "It could also be from a superior officer to his subordinate  directing for an appropriate   action to be taken on a particular issue",
+  ],
+});
+
+questions.push({
+  question: "96. What is Report? ",
+
+  answer: [
+    "Report has to do with details of the facts of a matter drawn up for a superior officer or a committee,",
+  ],
+});
+
+questions.push({
+  question: "97. What is a Brief?",
+
+  answer: [
+    "A Brief is a summary of the facts of a case or matter drawn up for a superior officer",
+  ],
 });
 
 //=====================================================================================
