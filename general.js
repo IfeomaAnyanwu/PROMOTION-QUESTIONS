@@ -101,9 +101,9 @@ questions.push({
     "c. He must be certified by an authorized healthcare provider as medically fit",
     "d. He must possess a testimonial of good conduct from last employer or from the last school/college attended",
     "e. He must provide evidence of state of origin",
-    "He must possess requisite qualifications as provided for in the Schemes of Service",
-    "He must not have been convicted of a criminal charge",
-    "He must not have been previously employed and dismissed from a Government service",
+    "f. He must possess requisite qualifications as provided for in the Schemes of Service",
+    "g. He must not have been convicted of a criminal charge",
+    "h. He must not have been previously employed and dismissed from a Government service",
   ],
 });
 
@@ -1320,6 +1320,19 @@ questions.push({
     "10 - Principal Administrative Officer",
     "9 -  Administrative Officer I",
     "8 -  Administrative Officer II",
+  ],
+});
+
+questions.push({
+  question: "101. List the criteria for promition in Public Service",
+
+  answer: [
+    "1.You must have completed the required minimum years required to be spent on a post according to your grade level - maturity",
+    "2.You must have satisfactory work performance records in lower grade.",
+    "3.You must sit for and pass promotion examination",
+    "4.You must not be under disciplinary action ",
+    "5.You must have the ability and competence (potential) to perform the responsibilities of the higher post efficiently",
+    "6.There must be vacancy ",
   ],
 });
 
