@@ -1253,7 +1253,7 @@ questions.push({
 
   answer: [
     "Memorandum is a policy proposal for tabling at a meeting ",
-    "It can also be a proposal for presenting to a higher authority",
+    "It can be a proposal for presenting to a higher authority",
     "It could also be from a superior officer to his subordinate  directing for an appropriate   action to be taken on a particular issue",
   ],
 });
@@ -1262,7 +1262,7 @@ questions.push({
   question: "96. What is Report? ",
 
   answer: [
-    "Report has to do with details of the facts of a matter drawn up for a superior officer or a committee,",
+    "Report is details of the facts of a matter drawn up for a superior officer or a committee,",
   ],
 });
 
@@ -1271,6 +1271,55 @@ questions.push({
 
   answer: [
     "A Brief is a summary of the facts of a case or matter drawn up for a superior officer",
+  ],
+});
+
+questions.push({
+  question: "98. What is a Letter?",
+
+  answer: [
+    "A letter is a formal communication between two people or institutions and it must carry the address of the sender and the receiver",
+  ],
+});
+
+questions.push({
+  question: "99. What is a Endorsement?",
+
+  answer: [
+    "Endorsement is appending of signature of the author of a document or message. ",
+  ],
+});
+
+questions.push({
+  question:
+    "100. List the Grade levels of the Executive Cadre in Public Service",
+
+  answer: [
+    "14 - Chief Executive Officer ",
+    "13 -Assistant Chief Executive Officer",
+    "12 - Principal Executive Officer 1",
+    "10 - Principal Executive Officer 1",
+    "9 - Senior Executive Officer",
+    "8 - Higher Executive Officer",
+    "7 - Executive Officer",
+    "6 - Assistant Executive Officer",
+  ],
+});
+
+questions.push({
+  question:
+    "101. List the Grade levels of the Administrative Cadre in Public Service",
+
+  answer: [
+    "17 - Director",
+    "16 - Deputy Director",
+    "15 - Assistant Director",
+    "14 - Chief Administrative Officer ",
+    "13 - Assistant Chief Administrative Officer",
+    "12 - Senior Administrative Officer ",
+    "10 - Principal Administrative Officer",
+    "9 -  Administrative Officer I",
+    "8 -  Administrative Officer II",
   ],
 });
 
