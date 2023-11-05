@@ -1297,8 +1297,8 @@ questions.push({
   answer: [
     "14 - Chief Executive Officer ",
     "13 -Assistant Chief Executive Officer",
-    "12 - Principal Executive Officer 1",
-    "10 - Principal Executive Officer 1",
+    "12 - Principal Executive Officer I",
+    "10 - Principal Executive Officer II",
     "9 - Senior Executive Officer",
     "8 - Higher Executive Officer",
     "7 - Executive Officer",
@@ -1324,7 +1324,7 @@ questions.push({
 });
 
 questions.push({
-  question: "101. List the criteria for promition in Public Service",
+  question: "102. List the criteria for promition in Public Service",
 
   answer: [
     "1.You must have completed the required minimum years required to be spent on a post according to your grade level - maturity",
