@@ -937,6 +937,7 @@ questions.push({
     "n. SRV - STORES RECEIPT VOUCHER",
     "o. ROS - RECORD OF SERVICE",
     "p. LPO - LOCAL PURCHASE ORDER",
+    "q. FYC - FOR YOUR CONSIDERATION",
   ],
 });
 
@@ -1324,7 +1325,7 @@ questions.push({
 });
 
 questions.push({
-  question: "102. List the criteria for promition in Public Service",
+  question: "102. List the criteria for promotion in Public Service",
 
   answer: [
     "1.You must have completed the required minimum years required to be spent on a post according to your grade level - maturity",
@@ -1333,6 +1334,36 @@ questions.push({
     "4.You must not be under disciplinary action ",
     "5.You must have the ability and competence (potential) to perform the responsibilities of the higher post efficiently",
     "6.There must be vacancy ",
+  ],
+});
+
+questions.push({
+  question: "103. Whose picture is on the following Naira Note",
+
+  answer: [
+    "i	N5 – Tafawa Balewa",
+    "ii.	N10 - Alvan Ikonu",
+    "iii.	N20 - Ladi Kwali",
+    "iv. N50 - Fishermen (WaZoBia)",
+    "v.	N100 - Obafemi Awolowo",
+    "vi.	N200 - Sir Ahmadu Ibrahim Bello",
+    "vii.	N500 – Dr. Nnamdi Azikiwe",
+    "viii.	N1000 - Dr. Clement Isong and Alh. Aliyu Mai Bornu",
+  ],
+});
+
+questions.push({
+  question: "104. List 5 ways of derterminin seniority in service",
+
+  answer: [
+    "i	Date of assumption of duty",
+    "ii.	Date of letter of Appointment",
+    "iii.	Date officer attains higher rank",
+    "iv. Grade Level",
+    "v.	N100 - Obafemi Awolowo",
+    "vi.	N200 - Sir Ahmadu Ibrahim Bello",
+    "vii.	N500 – Dr. Nnamdi Azikiwe",
+    "viii.	N1000 - Dr. Clement Isong and Alh. Aliyu Mai Bornu",
   ],
 });
 

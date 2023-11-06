@@ -66,17 +66,17 @@ questions.push({
 questions.push({
   question: " 4. List 5 examples of internet browsers",
   answer: [
-    "a. Google chrome",
+    "a. Google Chrome",
     "b. Mozilla Firefox",
     "c. Opera",
     "d. Safari",
     "e. Microsoft Edge ( this replaced Internet Explorer)",
     "f. Slim browser",
     "g. Maxthon",
-    "h. K. Meleon",
+    "h. K-Meleon",
     "i. UC Browser",
     "j. Netscape",
-    "k. OminWeb",
+    "k. OmniWeb",
     "l. NetFront",
     "m. Camino",
     "n. Midori",
@@ -107,7 +107,7 @@ questions.push({
     "f. Read Only Memory - RAM",
     "g. MotherBoard",
     "h. Computer Casing",
-    "i. Power supply",
+    "i. Power Pack/supply",
     "j. Peripheral like Printer, Scanner, Speaker, etc",
     "etc.",
   ],
@@ -182,7 +182,7 @@ questions.push({
     "g. Backup tools/software",
     "h. WinRAR",
     "i. WinZip",
-    "j. Filw Archiver",
+    "j. File Archiver",
     "k. KeyFinder",
     "etc.",
   ],
@@ -216,7 +216,7 @@ questions.push({
     "d. Document software",
     "e. Video software",
     "f. Audio software",
-    "g. OCR software",
+    "g. OCR (Optical Character Recognition) software",
     "h. Bulk renaming software",
     "i. Checksum software",
     "etc",
@@ -581,7 +581,7 @@ questions.push({
   question: "47. What is a web Portal",
 
   answer: [
-    "A web portal is a specially designed website that brings information from diverse sources, like emails, online forums and search engines, together in a uniform way.",
+    "A web portal is a specially designed website that brings information from diverse sources, like databases, emails, online forums and search engines, together in a uniform way.",
   ],
 });
 
@@ -896,6 +896,37 @@ questions.push({
     "h. Floopy Disk",
     "i. Blue ray disk",
     "etc",
+  ],
+});
+
+questions.push({
+  question: "76. list 5 types Databases  ",
+
+  answer: [
+    "a. Oracle",
+    "b. Mongo DB - non-relational",
+    "c. MYSQL",
+    "d. PostgreSQL",
+    "e. MariaDB",
+    "f. DocumentDB",
+    "g. CouchDB ",
+    "h. Orient DB",
+    "i. Redis DB non-relational",
+    "j. Oracle noSQL DB - non relational",
+    "k. Amazon Dynamo DB - non relational",
+    "etc",
+  ],
+});
+
+questions.push({
+  question:
+    "77. What is the difference between Reltional and non-relaitional databases ",
+
+  answer: [
+    "A relational database is structured, meaning the data is organized in tables. Many times, the data within these tables have relationships with one another or dependencies. ",
+    "A non-relational database is document-oriented, meaning all information gets stored in more of a laundry list order.",
+
+    "The non-relational database, or NoSQL database, stores data. However, unlike the relational database, there are no tables, rows, primary keys or foreign keys.",
   ],
 });
 
