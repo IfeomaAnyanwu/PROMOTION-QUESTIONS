@@ -993,7 +993,7 @@ questions.push({
     "r. PHP",
     "s. Ruby",
     "t. Swift",
-    "u. Machine Language"
+    "u. Machine Language",
     "etc",
   ],
 });
