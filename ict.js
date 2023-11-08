@@ -167,23 +167,25 @@ questions.push({
     "e. Accounting applications",
     "f. Photo editor",
     "g. Mobile apps such as video games, Whatsapp, etc.",
+    "h. Presenttion software like Power Point",
+    "i. Buisness software like Zoom, Slack etc",
+    "j. Adobe Reader, Acrobat, etc.",
+    "k. Education software like Google Classroom.",
   ],
 });
 
 questions.push({
   question: "10. List Five (5) utility software",
   answer: [
-    "a. Antivirus",
-    "b. File Management System",
-    "c. Disk Management tools",
-    "d. Compression tools",
-    "e. Disk cleanup tool",
+    "a. Antivirus e.g Norton",
+    "b. File Management System e.g Windows Explorer, google desktop etc",
+    "c. Disk Management tools e.g Partition Wizard",
+    "d. Compression tools e.g Winzip",
+    "e. Disk cleanup tool e.g CCleaner",
     "f. Disk Defragmenter",
-    "g. Backup tools/software",
-    "h. WinRAR",
-    "i. WinZip",
-    "j. File Archiver",
-    "k. KeyFinder",
+    "g. Backup tools/software e.g SecureCopy, GoodSync etc",
+    "h. File Archiver e.g Win RAR",
+    "i. KeyFinder e.g Jelly Bean",
     "etc.",
   ],
 });
@@ -367,7 +369,7 @@ questions.push({
     "f. VGA - Video Graphics Array",
     "i. Audio ports ",
     "j. PS/2 - Personal System 2",
-    "k. e-SATA - External Serial Adanvce Attachment",
+    "k. e-SATA - External Serial Advance Attachment",
     "l. RCA - Radio Corporation of America",
   ],
 });
@@ -927,6 +929,72 @@ questions.push({
     "A non-relational database is document-oriented, meaning all information gets stored in more of a laundry list order.",
 
     "The non-relational database, or NoSQL database, stores data. However, unlike the relational database, there are no tables, rows, primary keys or foreign keys.",
+  ],
+});
+
+questions.push({
+  question: "78. list 5 uses of computer",
+
+  answer: [
+    "a. process and store data",
+    "b. make reports and presentations ",
+    "c. research",
+    "d. maintain database",
+    "e. Play music, games and videos",
+    "f. Store records",
+    "g. Find information",
+    "h. read e-books",
+    "i. maintain inventory",
+    "j. buy online products",
+    "k. online banking",
+    "etc",
+  ],
+});
+
+questions.push({
+  question: "79. list five types of Database Management System",
+
+  answer: [
+    "a. Hierarchical databases.",
+    "b. Network databases.",
+    "c. Relational databases.",
+    "d. Object-oriented databases.",
+    "e. Graph databases.",
+    "f. ER model databases.",
+    "g. Document databases.",
+    "h. NoSQL databases.",
+    "i. Non-relational Database",
+
+    "etc",
+  ],
+});
+
+questions.push({
+  question: "80. list two types of programming languages",
+
+  answer: [
+    "a.	Python",
+    "b.	Java",
+    "c.	Javascript",
+    "d.	HTML",
+    "e.	C",
+    "f.	C++",
+    "g.	C#",
+    "h.	SQL",
+    "i.	Perl",
+    "j.	Cobol",
+    "k.	Assembly Language",
+    "l.	Pascal",
+    "m.	Ada",
+    "n.	Rust",
+    "o. Fortran",
+    "p. Lisp",
+    "q. Haskell",
+    "r. PHP",
+    "s. Ruby",
+    "t. Swift",
+    "u. Machine Language"
+    "etc",
   ],
 });
 
